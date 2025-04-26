@@ -1,1 +1,2 @@
-# SPAM_SMS_DETECTION
+ SPAM_SMS_DETECTION
+ I have developed a machine learning model for detecting spam SMS messages. The model analyzes text features to accurately classify messages as either "spam" or "ham" (not spam). It uses techniques like text preprocessing, feature extraction (e.g., TF-IDF), and a trained classifier such as Multinomail Naive Bayes or SVM. This project helps in automating SMS filtering and improving user communication safety.
